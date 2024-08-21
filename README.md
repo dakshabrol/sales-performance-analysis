@@ -9,8 +9,11 @@ Mike Goodman, the Product Management Director at a retail products company, is t
 ### Objective
 The primary aim of this project is to create a comprehensive dashboard that displays monthly sales performance by product segment and category. This tool will assist the client in pinpointing segments and categories that have met or surpassed their sales targets, as well as those that have fallen short.
 
+### Software / Technology Used
+Tableau
+
 ### Domain
-**E-commerce**
+E-commerce
 
 ### Dataset Overview
 This analysis will utilize two key datasets: **Sample - Superstore** and **Sales_Target**.
