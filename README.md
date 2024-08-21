@@ -1,7 +1,7 @@
-## Sales Performance Analysis
+## Sales Performance Dashboard
 
 ### Project Overview
-**Sales Performance Analysis** is a data-driven project aimed at empowering retail management to make informed decisions regarding product offerings. By developing an interactive dashboard, this project will visually represent monthly sales performance across various product segments and categories, enabling stakeholders to easily identify which areas are performing well and which require attention.
+**Sales Performance Dashboard** is a data-driven project aimed at empowering retail management to make informed decisions regarding product offerings. By developing an interactive dashboard, this project will visually represent monthly sales performance across various product segments and categories, enabling stakeholders to easily identify which areas are performing well and which require attention.
 
 ### Background
 Mike Goodman, the Product Management Director at a retail products company, is tasked with evaluating the company’s product catalog. His goal is to determine which products to continue selling and which ones to phase out.
